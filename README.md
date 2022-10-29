@@ -1,4 +1,4 @@
-# face-mask-classify
+# Face mask Detection
 PyTorch model to classify if face mask is proper or not
 
 ## Contrubuting :handshake:
